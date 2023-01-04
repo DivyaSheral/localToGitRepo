@@ -15,5 +15,9 @@ public class SeleniumTest {
 	{
 		System.out.print("login test");
 	}
+	public void createdOnLocal()
+	{
+		System.out.print("this method created in local and pushed to git");
+	}
 
 }
