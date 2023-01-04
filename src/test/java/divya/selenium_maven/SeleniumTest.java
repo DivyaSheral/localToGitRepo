@@ -20,4 +20,8 @@ public class SeleniumTest {
 		System.out.print("this method created in local and pushed to git");
 	}
 
+	public void methodForDeveleopmentBranch()
+	{
+		System.out.print("this method created in local and for develeopment branch");
+	}
 }
