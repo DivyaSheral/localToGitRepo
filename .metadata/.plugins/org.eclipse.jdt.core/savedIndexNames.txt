@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\divya\DIVYA_DATA\NewWork(dec-2022)\GITtoLocal\localToGitRepo\.metadata\.plugins\org.eclipse.jdt.core

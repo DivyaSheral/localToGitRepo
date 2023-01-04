@@ -24,4 +24,10 @@ public class SeleniumTest {
 	{
 		System.out.print("this method created in local and for develeopment branch");
 	}
+	
+	public void methodformaster()
+	{
+		System.out.print("clone - changes-push");
+	}
+	
 }
