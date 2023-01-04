@@ -29,5 +29,9 @@ public class SeleniumTest {
 	{
 		System.out.print("clone - changes-push");
 	}
-	
+
+	public void methodforDevelop()
+	{
+		System.out.print("code only for develop");
+	}
 }
